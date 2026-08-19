@@ -8,7 +8,7 @@
 Somos el **Equipo 10** del curso **FUNBIO 2026-2**, conformado por estudiantes de la carrera de Ingeniería Biomédica.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y de salud.  
 
-Nos interesa trabajar con la enfermedad: Sindrome de Guillain-Barré
+Nos interesa trabajar con: Secuela de ACV (accidente cerebro vascular)  
  
 
 ---
