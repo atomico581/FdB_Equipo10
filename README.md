@@ -18,7 +18,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/user-attachments/assets/3829718f-51c7-4d00-b262-ef37f178f059" />
+<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/atomico581/FdB_Equipo10/blob/main/Recursos/Im%C3%A1genes/foto%20grupal.jpg" />
   <em>Figura 1. Fotografía del equipo 0X</em>
 </p>
 
@@ -28,12 +28,12 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Alejandro Toledo** | Líder del equipo | Impresión 3D |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Rihanna Valverde** | Responsable de investigación | 
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Samantha Vilchez** | Diseñadora |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Alonso Vicente** | Encargado/a de documentación |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Daniela Villar** | Programador/a | Programación, análisis de datos, simulación |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Damaris Tinoco** | Modeladora |
+| <img src="/Recursos/Imágenes/foto1.jpg" width="90"/> | **Alejandro Toledo** | Líder del equipo | Impresión 3D |
+| <img src="/Recursos/Imágenes/rihanna.jpg" width="90"/> | **Rihanna Valverde** | Responsable de investigación | Análisis de datos |
+| <img src="/Recursos/Imágenes/samantha.jpg" width="90"/> | **Samantha Vilchez** | Diseñadora | Protopipado |
+| <img src="/Recursos/Imágenes/alonso.jpg" width="90"/> | **Alonso Vicente** | Especialista en instrumentacion | Electronica |
+| <img src="/Recursos/Imágenes/daniela.jpg" width="90"/> | **Daniela Villar** | Programador/a | Programación y simulación |
+| <img src="/Recursos/Imágenes/damaris.jpg" width="90"/> | **Damaris Tinoco** | Modeladora | optimización y diseño virtual |
 ---
 
 ## 📌 Resumen Final  
