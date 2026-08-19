@@ -16,7 +16,7 @@ Nos interesa trabajar con: Secuela de ACV (accidente cerebro vascular)
 ## 📸 Fotografía del Equipo  
 <p align="center">
 <img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/atomico581/FdB_Equipo10/blob/main/Recursos/Im%C3%A1genes/foto%20grupal.jpg" />
-  <em>Figura 1. Fotografía del equipo 0X</em>
+  <em>Figura 1. Fotografía del equipo 10</em>
 </p>
 
 ---
