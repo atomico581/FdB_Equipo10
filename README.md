@@ -28,7 +28,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/foto1.jpg" width="90"/> | **Alejandro Toledo** | Líder del equipo | Impresión 3D |
+| <img src="/Recursos/Imágenes/foto1.jpeg" width="90"/> | **Alejandro Toledo** | Líder del equipo | Impresión 3D |
 | <img src="/Recursos/Imágenes/rihanna.jpg" width="90"/> | **Rihanna Valverde** | Responsable de investigación | Análisis de datos |
 | <img src="/Recursos/Imágenes/samantha.jpg" width="90"/> | **Samantha Vilchez** | Diseñadora | Protopipado |
 | <img src="/Recursos/Imágenes/alonso.jpg" width="90"/> | **Alonso Vicente** | Especialista en instrumentacion | Electronica |
